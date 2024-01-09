@@ -16,3 +16,7 @@ Submission 1 dengan kriteria fitur:
 ## 👨🏻‍💻 Tech Stack
 
 Backend menggunakan library @hapi/hapi, eslint, dan nanoid.
+
+## Rating Submission
+<img src="https://github.com/hyugenk/Back-End-Pemula-Dicoding/blob/main/ss/Rating%20Bintang.png" alt="Rating Submission">
+
