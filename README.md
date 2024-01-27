@@ -1,6 +1,6 @@
 ## Submission Dicoding "Belajar Back End Pemula Dicoding" 
 
-# 📃 Description
+# 📃 Descriptionn
 
 Projek ini adalah submission dari Dicoding untuk kelas Belajar Membuat Aplikasi Back-End untuk Pemula. Kelas ini memiliki 1 submission yang harus diselesaikan untuk mendapatkan sertifikat.
 
